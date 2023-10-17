@@ -16,5 +16,5 @@ Soy un desarrollador web junior e introduciendome en el mundo del software
 🌱 Estoy aprendiendo:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- 👯 Me encanta colaborar en proyectos de código abierto y trabajar en equipo.
-- 💬 Pregúntame sobre cualquier cosa relacionada con desarrollo web o backend.
+👯 Me encanta colaborar en proyectos de código abierto y trabajar en equipo.
+💬 Pregúntame sobre cualquier cosa relacionada con desarrollo web o backend.
