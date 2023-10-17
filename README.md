@@ -7,7 +7,8 @@ Soy un desarrollador web junior e introduciendome en el mundo del software
 
 - 💼 Soy un desarrollador web con experiencia en:.
 
-  ![Image text](assets/html5.svg) ![Image text](assets/css3.svg)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - 🌱 Estoy aprendiendo Python y desarrollo de software.
 - 👯 Me encanta colaborar en proyectos de código abierto y trabajar en equipo.
