@@ -1,11 +1,11 @@
-# ¡Hola, soy SirNaranja o Alex! 👋
+# ¡Hello, Im SirNaranja or Alex! 👋
 
-Soy un desarrollador web junior e introduciendome en el mundo del software
+Im a Junior Web developer 
 
-## Sobre Mí
+## About me
 
 
-💼 Soy un desarrollador web con experiencia en:
+💼  Experience with:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
