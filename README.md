@@ -17,9 +17,10 @@ I've worked with:
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-🌱 Estoy aprendiendo:
+🌱 Messing with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 👯 Me encanta colaborar en proyectos de código abierto y trabajar en equipo.
 
