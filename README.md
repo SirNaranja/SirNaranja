@@ -1,6 +1,6 @@
 # ¡Hello, Im SirNaranja or Alex! 👋
 
-Im a Junior Web developer 
+Im a Web developer 
 
 ## About me
 
