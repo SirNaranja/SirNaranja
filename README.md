@@ -24,4 +24,3 @@ I've worked with:
 
 👯 Me encanta colaborar en proyectos de código abierto y trabajar en equipo.
 
-💬 Pregúntame sobre cualquier cosa relacionada con desarrollo web o backend.
