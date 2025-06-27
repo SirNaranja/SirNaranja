@@ -5,12 +5,12 @@ Im a Web developer
 ## About me
 
 
-💼  Experience with:
+💼 Experience with:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java)](https://skillicons.dev)
 
 
-I've worked with:
+💻 I've worked with:
 
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 
