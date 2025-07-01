@@ -1,6 +1,6 @@
 # ¡Hello, Im SirNaranja or Alex! 👋
 
-Im a Web developer mainly focused in backen
+Im a Web developer mainly focused in backend
 
 Coding for almost 4 years,now starting my own projects
 
